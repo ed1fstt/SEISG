@@ -12,7 +12,7 @@ title: 2019 Progress
 {% for investment in investments %}
 
 <ul>
-<li><strong>{{ investment.Name }}</strong> (Data completed: {{ investment.DateCompleted }}; Notes: {{ investment.Notes }})</li>
+<li><strong>{{ investment.Name }}</strong>{{ investment.DateCompleted }} {{ investment.Notes }})</li>
 </ul>
 
 {% endfor %}
