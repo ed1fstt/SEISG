@@ -1,740 +1,924 @@
-- Name: Warm Up With The Classics
+- Num: '1'
+  Name: Warm Up With The Classics
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Fizz Buzz
+- Num: '2'
+  Name: Fizz Buzz
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Find The Kth Smallest/Largest Integer In An Array
+- Num: '3'
+  Name: Find The Kth Smallest/Largest Integer In An Array
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 560. Subarray Sum Equals K
+- Num: '4'
+  Name: 560. Subarray Sum Equals K
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'Arrays: Left Rotation'
+- Num: '5'
+  Name: 'Arrays: Left Rotation'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'Strings: Making Anagrams'
+- Num: '6'
+  Name: 'Strings: Making Anagrams'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Nth Fibonacci
+- Num: '7'
+  Name: Nth Fibonacci
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Algorithms And Data Structures
+- Num: '8'
+  Name: Algorithms And Data Structures
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Pre-Study Problems
+- Num: '9'
+  Name: Pre-Study Problems
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 985. Sum of Even Numbers After Queries
+- Num: '10'
+  Name: 985. Sum of Even Numbers After Queries
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 657. Robot Return to Origin
+- Num: '11'
+  Name: 657. Robot Return to Origin
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 961. N-Repeated Element in Size 2N Array
+- Num: '12'
+  Name: 961. N-Repeated Element in Size 2N Array
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 110. Balanced Binary Tree
+- Num: '13'
+  Name: 110. Balanced Binary Tree
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 3. Longest Substring Without Repeating Characters
+- Num: '14'
+  Name: 3. Longest Substring Without Repeating Characters
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 19. Remove Nth Node From End of List
+- Num: '15'
+  Name: 19. Remove Nth Node From End of List
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 23. Merge k Sorted Lists
+- Num: '16'
+  Name: 23. Merge k Sorted Lists
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 31. Next Permutation
+- Num: '17'
+  Name: 31. Next Permutation
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Algorithms And Data Structures Videos
+- Num: '18'
+  Name: Algorithms And Data Structures Videos
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Data Structures
+- Num: '19'
+  Name: Data Structures
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'Data Structures & Algorithms #1 - What Are Data Structures?'
+- Num: '20'
+  Name: 'Data Structures & Algorithms #1 - What Are Data Structures?'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Multi-dim (video)
+- Num: '21'
+  Name: Multi-dim (video)
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Dynamic Arrays (video)
+- Num: '22'
+  Name: Dynamic Arrays (video)
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Resizing arrays (video)
+- Num: '23'
+  Name: Resizing arrays (video)
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'Data Structures: Linked Lists'
+- Num: '24'
+  Name: 'Data Structures: Linked Lists'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Core Linked Lists Vs Arrays (video)
+- Num: '25'
+  Name: Core Linked Lists Vs Arrays (video)
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Pointers to Pointers
+- Num: '26'
+  Name: Pointers to Pointers
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'Data Structures: Trees'
+- Num: '27'
+  Name: 'Data Structures: Trees'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'Data Structures: Heaps'
+- Num: '28'
+  Name: 'Data Structures: Heaps'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'Data Structures: Hash Tables'
+- Num: '29'
+  Name: 'Data Structures: Hash Tables'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Phone Book Problem (video)
+- Num: '30'
+  Name: Phone Book Problem (video)
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'Data Structures: Stacks and Queues'
+- Num: '31'
+  Name: 'Data Structures: Stacks and Queues'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Using Stacks Last-In First-Out (video)
+- Num: '32'
+  Name: Using Stacks Last-In First-Out (video)
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'Data Structures: Crash Course Computer Science #14'
+- Num: '33'
+  Name: 'Data Structures: Crash Course Computer Science #14'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'Data Structures: Tries'
+- Num: '34'
+  Name: 'Data Structures: Tries'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Algorithms
+- Num: '35'
+  Name: Algorithms
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Python Algorithms for Interviews
+- Num: '36'
+  Name: Python Algorithms for Interviews
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'Algorithms: Graph Search, DFS and BFS'
+- Num: '37'
+  Name: 'Algorithms: Graph Search, DFS and BFS'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: BFS(breadth-first search) and DFS(depth-first search) (video)
+- Num: '38'
+  Name: BFS(breadth-first search) and DFS(depth-first search) (video)
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'Algorithms: Binary Search'
+- Num: '39'
+  Name: 'Algorithms: Binary Search'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Binary Search Tree Review (video)
+- Num: '40'
+  Name: Binary Search Tree Review (video)
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'Algorithms: Recursion'
+- Num: '41'
+  Name: 'Algorithms: Recursion'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'Algorithms: Bubble Sort'
+- Num: '42'
+  Name: 'Algorithms: Bubble Sort'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'Algorithms: Merge Sort'
+- Num: '43'
+  Name: 'Algorithms: Merge Sort'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'Algorithms: Quicksort'
+- Num: '44'
+  Name: 'Algorithms: Quicksort'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Big O Notation
+- Num: '45'
+  Name: Big O Notation
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: >-
+- Num: '46'
+  Name: >-
     Introduction to Big O Notation and Time Complexity (Data Structures &
     Algorithms #7)
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Harvard CS50 - Asymptotic Notation (video)
+- Num: '47'
+  Name: Harvard CS50 - Asymptotic Notation (video)
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: A Gentle Introduction to Algorithm Complexity Analysis
+- Num: '48'
+  Name: A Gentle Introduction to Algorithm Complexity Analysis
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Cheat sheet
+- Num: '49'
+  Name: Cheat sheet
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Dynamic Programming
+- Num: '50'
+  Name: Dynamic Programming
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Dynamic Programming (Think Like a Programmer) - Video
+- Num: '51'
+  Name: Dynamic Programming (Think Like a Programmer) - Video
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'Algorithms: Memoization and Dynamic Programming - Video'
+- Num: '52'
+  Name: 'Algorithms: Memoization and Dynamic Programming - Video'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: '6.006: Dynamic Programming I: Fibonacci, Shortest Paths - Video'
+- Num: '53'
+  Name: '6.006: Dynamic Programming I: Fibonacci, Shortest Paths - Video'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: '6.006: Dynamic Programming II: Text Justification, Blackjack - Video'
+- Num: '54'
+  Name: '6.006: Dynamic Programming II: Text Justification, Blackjack - Video'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: '6.046: Dynamic Programming & Advanced DP - Video'
+- Num: '55'
+  Name: '6.046: Dynamic Programming & Advanced DP - Video'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Dynamic Programming - Post
+- Num: '56'
+  Name: Dynamic Programming - Post
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: String Manipulation
+- Num: '57'
+  Name: String Manipulation
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'Coding Interview Question and Answer: Longest Consecutive Characters'
+- Num: '58'
+  Name: 'Coding Interview Question and Answer: Longest Consecutive Characters'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Sedgewick - Substring Search (videos)
+- Num: '59'
+  Name: Sedgewick - Substring Search (videos)
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Interview Problem Walk Throughs
+- Num: '60'
+  Name: Interview Problem Walk Throughs
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Amazon Coding Interview Question - Recursive Staircase Problem
+- Num: '61'
+  Name: Amazon Coding Interview Question - Recursive Staircase Problem
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Google Coding Interview - Universal Value Tree Problem
+- Num: '62'
+  Name: Google Coding Interview - Universal Value Tree Problem
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'Google Coding Interview Question and Answer #1: First Recurring Character'
+- Num: '63'
+  Name: 'Google Coding Interview Question and Answer #1: First Recurring Character'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Find min and max element in a binary search tree (video)
+- Num: '64'
+  Name: Find min and max element in a binary search tree (video)
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Find height of a binary tree (video)
+- Num: '65'
+  Name: Find height of a binary tree (video)
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Check if a binary tree is binary search tree or not (video)
+- Num: '66'
+  Name: Check if a binary tree is binary search tree or not (video)
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: What Is Tail Recursion Why Is It So Bad?
+- Num: '67'
+  Name: What Is Tail Recursion Why Is It So Bad?
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Post-Study Problems
+- Num: '68'
+  Name: Post-Study Problems
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Bigger Is Greater
+- Num: '69'
+  Name: Bigger Is Greater
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 6. ZigZag Conversion
+- Num: '70'
+  Name: 6. ZigZag Conversion
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 7. Reverse Integer
+- Num: '71'
+  Name: 7. Reverse Integer
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 40. Combination Sum II
+- Num: '72'
+  Name: 40. Combination Sum II
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 43. Multiply Strings
+- Num: '73'
+  Name: 43. Multiply Strings
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Larry's Array
+- Num: '74'
+  Name: Larry's Array
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Short Palindrome
+- Num: '75'
+  Name: Short Palindrome
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 65. Valid Number
+- Num: '76'
+  Name: 65. Valid Number
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Bigger is Greater
+- Num: '77'
+  Name: Bigger is Greater
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: The Full Counting Sort
+- Num: '78'
+  Name: The Full Counting Sort
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Lily's Homework
+- Num: '79'
+  Name: Lily's Homework
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Common Child
+- Num: '80'
+  Name: Common Child
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 459. Repeated Substring Pattern
+- Num: '81'
+  Name: 459. Repeated Substring Pattern
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 27. Remove Element
+- Num: '82'
+  Name: 27. Remove Element
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 450. Delete Node in a BST
+- Num: '83'
+  Name: 450. Delete Node in a BST
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 659. Split Array into Consecutive Subsequences
+- Num: '84'
+  Name: 659. Split Array into Consecutive Subsequences
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Number of Subarrays with Bounded Maximum
+- Num: '85'
+  Name: Number of Subarrays with Bounded Maximum
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Combination Sum IV
+- Num: '86'
+  Name: Combination Sum IV
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Best Time to Buy and Sell Stock with Cooldown
+- Num: '87'
+  Name: Best Time to Buy and Sell Stock with Cooldown
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Longest Repeating Character Replacement
+- Num: '88'
+  Name: Longest Repeating Character Replacement
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Swap Nodes in Pairs
+- Num: '89'
+  Name: Swap Nodes in Pairs
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Binary Tree Right Side View
+- Num: '90'
+  Name: Binary Tree Right Side View
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Flatten Nested List Iterator
+- Num: '91'
+  Name: Flatten Nested List Iterator
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Binary Tree Level Order Traversal
+- Num: '92'
+  Name: Binary Tree Level Order Traversal
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Binary Search Tree Iterator
+- Num: '93'
+  Name: Binary Search Tree Iterator
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Maximum Length of Pair Chain
+- Num: '94'
+  Name: Maximum Length of Pair Chain
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Split Linked List in Parts
+- Num: '95'
+  Name: Split Linked List in Parts
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Operational Programming Problems
+- Num: '96'
+  Name: Operational Programming Problems
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Kangaroo Problem
+- Num: '97'
+  Name: Kangaroo Problem
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Breaking Records
+- Num: '98'
+  Name: Breaking Records
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Find A String
+- Num: '99'
+  Name: Find A String
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: itertools.permutations()
+- Num: '100'
+  Name: itertools.permutations()
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: No Idea!
+- Num: '101'
+  Name: No Idea!
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Days of the programmer
+- Num: '102'
+  Name: Days of the programmer
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Leaderboard
+- Num: '103'
+  Name: Leaderboard
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Word Order
+- Num: '104'
+  Name: Word Order
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Sherlock And Squares
+- Num: '105'
+  Name: Sherlock And Squares
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Equalize The Array
+- Num: '106'
+  Name: Equalize The Array
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Apples And Oranges
+- Num: '107'
+  Name: Apples And Oranges
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: More Operational Style Questions
+- Num: '108'
+  Name: More Operational Style Questions
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: System Design Videos
+- Num: '109'
+  Name: System Design Videos
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Tiny url
+- Num: '110'
+  Name: Tiny url
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Parking Lot System
+- Num: '111'
+  Name: Parking Lot System
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Whats App
+- Num: '112'
+  Name: Whats App
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Uber design
+- Num: '113'
+  Name: Uber design
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Instagram
+- Num: '114'
+  Name: Instagram
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Tinder Service
+- Num: '115'
+  Name: Tinder Service
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Operating Systems
+- Num: '116'
+  Name: Operating Systems
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Commonly Asked Operating Systems Interview Questions
+- Num: '117'
+  Name: Commonly Asked Operating Systems Interview Questions
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: What is Translation lookaside buffer?
+- Num: '118'
+  Name: What is Translation lookaside buffer?
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Why does Round Robin avoid the Priority Inversion Problem?
+- Num: '119'
+  Name: Why does Round Robin avoid the Priority Inversion Problem?
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Interrupt Vs System Call
+- Num: '120'
+  Name: Interrupt Vs System Call
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: What is `inode' in file system?
+- Num: '121'
+  Name: What is `inode' in file system?
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Operating System Interview Questions and Answers - Part I
+- Num: '122'
+  Name: Operating System Interview Questions and Answers - Part I
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: What is a kernel - Gary explains
+- Num: '123'
+  Name: What is a kernel - Gary explains
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Round Robin Algorithm Tutorial (CPU Scheduling)
+- Num: '124'
+  Name: Round Robin Algorithm Tutorial (CPU Scheduling)
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: The Magic of LRU Cache (100 Days of Google Dev) (video)
+- Num: '125'
+  Name: The Magic of LRU Cache (100 Days of Google Dev) (video)
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'MIT 6.004 L15: The Memory Hierarchy (video)'
+- Num: '126'
+  Name: 'MIT 6.004 L15: The Memory Hierarchy (video)'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Interrupts (video)
+- Num: '127'
+  Name: Interrupts (video)
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Scheduling (video)
+- Num: '128'
+  Name: Scheduling (video)
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Threads
+- Num: '129'
+  Name: Threads
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: User Level thread Vs Kernel Level thread
+- Num: '130'
+  Name: User Level thread Vs Kernel Level thread
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Intro to Processes & Threads
+- Num: '131'
+  Name: Intro to Processes & Threads
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: >-
+- Num: '132'
+  Name: >-
     Difference Between Process and Thread - Georgia Tech - Advanced Operating
     Systems
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Difference between forking and multithreading
+- Num: '133'
+  Name: Difference between forking and multithreading
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Object Oriented
+- Num: '134'
+  Name: Object Oriented
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Java Programming Tutorial - 49 - Inheritance
+- Num: '135'
+  Name: Java Programming Tutorial - 49 - Inheritance
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Java Programming Tutorial - 55 - Intoduction to Polymorphism
+- Num: '136'
+  Name: Java Programming Tutorial - 55 - Intoduction to Polymorphism
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Java Programming Tutorial - 58 - Abstract and Concrete Classes
+- Num: '137'
+  Name: Java Programming Tutorial - 58 - Abstract and Concrete Classes
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Java Programming Tutorial - 57 - Overriding Rules
+- Num: '138'
+  Name: Java Programming Tutorial - 57 - Overriding Rules
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Java Programming Tutorial - 59 - Class to Hold Objects
+- Num: '139'
+  Name: Java Programming Tutorial - 59 - Class to Hold Objects
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Object-Oriented Programming
+- Num: '140'
+  Name: Object-Oriented Programming
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Design Patterns
+- Num: '141'
+  Name: Design Patterns
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Factory Design Pattern
+- Num: '142'
+  Name: Factory Design Pattern
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Observer Design Pattern
+- Num: '143'
+  Name: Observer Design Pattern
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Adapter Design Pattern
+- Num: '144'
+  Name: Adapter Design Pattern
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Facade Design Pattern
+- Num: '145'
+  Name: Facade Design Pattern
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Chain of Responsibility Design Pattern
+- Num: '146'
+  Name: Chain of Responsibility Design Pattern
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Interpreter Design Pattern
+- Num: '147'
+  Name: Interpreter Design Pattern
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Singleton Design Pattern Tutorial
+- Num: '148'
+  Name: Singleton Design Pattern Tutorial
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Chapter 6 (Part 1) - Patterns (video)
+- Num: '149'
+  Name: Chapter 6 (Part 1) - Patterns (video)
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Head First Design Patterns
+- Num: '150'
+  Name: Head First Design Patterns
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: SQL - Problems
+- Num: '151'
+  Name: SQL - Problems
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 262. Trips and Users
+- Num: '152'
+  Name: 262. Trips and Users
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 601. Human Traffic of Stadium
+- Num: '153'
+  Name: 601. Human Traffic of Stadium
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 185. Department Top Three Salaries
+- Num: '154'
+  Name: 185. Department Top Three Salaries
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 626. Exchange Seats
+- Num: '155'
+  Name: 626. Exchange Seats
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Hackerrank The Report
+- Num: '156'
+  Name: Hackerrank The Report
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 177. Nth Highest Salary
+- Num: '157'
+  Name: 177. Nth Highest Salary
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Symmetric Pairs
+- Num: '158'
+  Name: Symmetric Pairs
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Occupations
+- Num: '159'
+  Name: Occupations
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Placements
+- Num: '160'
+  Name: Placements
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Ollivander's Inventory
+- Num: '161'
+  Name: Ollivander's Inventory
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: SQL - Videos
+- Num: '162'
+  Name: SQL - Videos
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'IQ15: 6 SQL Query Interview Questions'
+- Num: '163'
+  Name: 'IQ15: 6 SQL Query Interview Questions'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Learning about ROW_NUMBER and Analytic Functions
+- Num: '164'
+  Name: Learning about ROW_NUMBER and Analytic Functions
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Advanced Implementation Of Analytic Functions
+- Num: '165'
+  Name: Advanced Implementation Of Analytic Functions
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Advanced Implementation Of Analytic Functions Part 2
+- Num: '166'
+  Name: Advanced Implementation Of Analytic Functions Part 2
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Wise Owl SQL Videos
+- Num: '167'
+  Name: Wise Owl SQL Videos
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Post SQL Problems
+- Num: '168'
+  Name: Post SQL Problems
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Binary Tree Nodes
+- Num: '169'
+  Name: Binary Tree Nodes
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Weather Observation Station 18
+- Num: '170'
+  Name: Weather Observation Station 18
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Challenges
+- Num: '171'
+  Name: Challenges
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Print Prime Numbers
+- Num: '172'
+  Name: Print Prime Numbers
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 595. Big Countries
+- Num: '173'
+  Name: 595. Big Countries
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 626. Exchange Seats
+- Num: '174'
+  Name: 626. Exchange Seats
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'SQL Interview Questions: 3 Tech Screening Exercises (For Data Analysts)'
+- Num: '175'
+  Name: 'SQL Interview Questions: 3 Tech Screening Exercises (For Data Analysts)'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Courses
+- Num: '176'
+  Name: Courses
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'The Coding Interview Bootcamp: Algorithms + Data Structures'
+- Num: '177'
+  Name: 'The Coding Interview Bootcamp: Algorithms + Data Structures'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Data Structures and Algorithms Bootcamp
+- Num: '178'
+  Name: Data Structures and Algorithms Bootcamp
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Data Structures and Algorithms - The Complete Masterclass
+- Num: '179'
+  Name: Data Structures and Algorithms - The Complete Masterclass
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Books
+- Num: '180'
+  Name: Books
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: Cracking The Code
+- Num: '181'
+  Name: Cracking The Code
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: The Algorithm Design Manual
+- Num: '182'
+  Name: The Algorithm Design Manual
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: 'The Linux Command Line: A Complete Introduction'
+- Num: '183'
+  Name: 'The Linux Command Line: A Complete Introduction'
   DateCompleted: ''
   Notes: ''
   Difficulty: ''
-- Name: >-
+- Num: '184'
+  Name: >-
     The Complete Software Developer's Career Guide: How to Learn Your Next
     Programming Language, Ace Your Programming Interview, and Land The Coding
     Job Of Your Dreams
