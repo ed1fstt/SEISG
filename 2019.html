@@ -1,0 +1,18 @@
+---
+layout: default
+title: 2019 Progress
+---
+
+<!-- Acquisitions -->
+{% assign investments = site.data.2019 %}
+<!--{% assign investments = investments | sort:"Name" %}-->
+
+<!-- Document -->
+
+{% for investment in investments %}
+
+<ul>
+<li><strong>{{ investment.Name }}</strong> (Data completed: {{ investment.DateCompleted }}; Notes: {{ investment.Notes }})</li>
+</ul>
+
+{% endfor %}
