@@ -10,20 +10,20 @@ title: 2019 Progress
 <!-- Document -->
 <table style = "width=100%">
 	<tr>
-		<th><strong>NAME</strong></th>
-		<th><strong>COMLETED DATE</strong></th>
-		<th><strong>NOTES</strong></th>
+		<th style = "width=70%"><strong>NAME</strong></th>
+		<th style = "width=15%"><strong>COMLETED DATE</strong></th>
+		<th style  = "width=15%"><strong>NOTES</strong></th>
 	</tr>
-
+</table>
 {% for investment in investments %}
 
 
-	<tr>
-		<th><strong>{{ investment.Name }}</strong></th>
-		<th>{{ investment.DateCompleted }}</th>
-		<th> {{ investment.Notes }}</th>
-	</tr>
-
+<div>
+	<div style = "width=70%"><strong>{{ investment.Name }}</strong></div>
+	<div style = "width=15%">{{ investment.DateCompleted }}</div>
+	<div style = "width=15%">{{ investment.Notes }}</div>
+</div>
+<br>
 
 {% endfor %o}
-</table>
+
