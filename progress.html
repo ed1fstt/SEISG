@@ -8,21 +8,12 @@ title: 2019 Progress
 {% assign investments = investments | sort:"Num" %}
 
 <!-- Document -->
-<!--<table style = "width=100%">
-	<tr>
-		<th style = "width=70%"><strong>NAME</strong></th>
-		<th style = "width=15%"><strong>COMLETED DATE</strong></th>
-		<th style  = "width=15%"><strong>NOTES</strong></th>
-	</tr>
-</table>-->
+
 {% for investment in investments %}
 
 
-<div>
-	<div style = "width=70%"><strong>{{ investment.Name }}</strong></div>
-	<div style = "width=15%">{{ investment.DateCompleted }}</div>
-	<div style = "width=15%">{{ investment.Notes }}</div>
-</div>
-
+<ul>
+        <li><strong>{{ investment.Name }}</strong> (Data completed: {{ investment.DateCompleted }}; Notes: {{ investment.Notes }})</li>
+</ul>
 
 {% endfor %o}
